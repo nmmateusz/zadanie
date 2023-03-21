@@ -1,0 +1,587 @@
+.logo {
+    text-align: center;
+}
+
+.tytul {
+    font-family: "Amatic SC", sans-serif;
+    font-size: 5rem;
+    font-weight: bolder;
+    float: left;
+    text-align: center;
+    width: 100%;
+    color: #2a4758;
+}
+
+.adres {
+    font-family: "Lato", sans-serif;
+    font-size: 1.5rem;
+    font-weight: bolder;
+    float: left;
+    text-align: center;
+    width: 100%;
+    margin-top: 10px;
+    color: #2a4758;
+}
+
+
+.powitanie {
+    float: left;
+    width: 100%;
+    height: 595px;
+    text-align: center;
+    margin-top: 5%;
+}
+
+
+.teb {
+    width: 50%;
+    height: 595px;
+    float: left;
+    text-align: center;
+}
+
+
+.powitanietytul {
+    width: 50%;
+    height: 200px;
+    float: left;
+    font-family: "Amatic SC", sans-serif;
+    text-align: center;
+    color: rgb(107, 0, 7);
+    font-weight: bolder;
+    font-size: 35px;
+    margin-top: 50px;
+}
+
+
+.powitanietext {
+    width: 50%;
+    height: 305;
+    float: left;
+    font-family: "Lato", sans-serif;
+    text-align: center;
+    color: #10344d;
+    font-weight: bolder;
+    font-size: 25px;
+    margin-top: 40px;
+}
+
+
+.pracowniafotograficzna {
+    float: left;
+    width: 100%;
+    height: 595px;
+    margin-top: 5%;
+}
+
+
+.fotografiatytul {
+    width: 50%;
+    height: 200px;
+    float: right;
+    font-family: "Amatic SC", sans-serif;
+    text-align: center;
+    color: rgb(107, 0, 7);
+    font-weight: bolder;
+    font-size: 35px;
+    margin-top: 50px;
+}
+
+
+.fotografiazdjecie {
+    width: 50%;
+    height: 595px;
+    float: left;
+    text-align: center;
+}
+
+
+.fotografiatext {
+    width: 50%;
+    height: 305;
+    float: right;
+    font-family: "Lato", sans-serif;
+    text-align: center;
+    color: #10344d;
+    font-weight: bolder;
+    font-size: 25px;
+    margin-top: 40px;
+}
+
+
+.muzyka {
+    float: left;
+    width: 100%;
+    height: 595px;
+    margin-top: 5%;
+}
+
+
+.muzykazdjecie {
+    width: 50%;
+    height: 595px;
+    float: left;
+    text-align: center;
+}
+
+
+.muzykatytul {
+    width: 50%;
+    height: 200px;
+    float: left;
+    font-family: "Amatic SC", sans-serif;
+    text-align: center;
+    color: rgb(107, 0, 7);
+    font-weight: bolder;
+    font-size: 35px;
+    margin-top: 50px;
+}
+
+
+.muzykatext {
+    width: 50%;
+    height: 305;
+    float: right;
+    font-family: "Lato", sans-serif;
+    text-align: center;
+    color: #10344d;
+    font-weight: bolder;
+    font-size: 25px;
+    margin-top: 40px;
+}
+
+
+.warszatyreklama {
+    float: left;
+    width: 100%;
+    height: 595px;
+    margin-top: 5%;
+}
+
+
+.warsztatyzdj {
+    width: 50%;
+    height: 595px;
+    float: left;
+    text-align: center;
+    margin-top: 5%;
+}
+
+
+.warsztatytytul {
+    width: 50%;
+    height: 200px;
+    float: right;
+    font-family: "Amatic SC", sans-serif;
+    text-align: center;
+    color: rgb(107, 0, 7);
+    font-weight: bolder;
+    font-size: 35px;
+    margin-top: 50px;
+}
+
+
+.warsztatytext {
+    width: 50%;
+    height: 305;
+    float: right;
+    font-family: "Lato", sans-serif;
+    text-align: center;
+    color: #10344d;
+    font-weight: bolder;
+    font-size: 25px;
+    margin-top: 40px;
+}
+
+
+.googlevr {
+    float: left;
+    width: 100%;
+    height: 595px;
+    margin-top: 5%;
+}
+
+
+.googlevrzdjecie {
+    width: 50%;
+    height: 595px;
+    float: left;
+    text-align: center;
+}
+
+
+.googlevrtytul {
+    width: 50%;
+    height: 200px;
+    float: left;
+    font-family: "Amatic SC", sans-serif;
+    text-align: center;
+    color: rgb(107, 0, 7);
+    font-weight: bolder;
+    font-size: 35px;
+    margin-top: 50px;
+}
+
+
+.googlevrtext {
+    width: 50%;
+    height: 305;
+    float: left;
+    font-family: "Lato", sans-serif;
+    text-align: center;
+    color: #10344d;
+    font-weight: bolder;
+    font-size: 25px;
+    margin-top: 40px;
+}
+
+
+.weterynaria {
+    float: left;
+    width: 100%;
+    height: 595px;
+    margin-top: 5%;
+}
+
+
+.weterynariazdj {
+    width: 50%;
+    height: 595px;
+    float: left;
+    text-align: center;
+}
+
+
+.weterynariatytul {
+    width: 50%;
+    height: 200px;
+    float: right;
+    font-family: "Amatic SC", sans-serif;
+    text-align: center;
+    color: rgb(107, 0, 7);
+    font-weight: bolder;
+    font-size: 35px;
+    margin-top: 50px;
+}
+
+
+.weterynariatext {
+    width: 50%;
+    height: 305;
+    float: right;
+    font-family: "Lato", sans-serif;
+    text-align: center;
+    color: #10344d;
+    font-weight: bolder;
+    font-size: 25px;
+    margin-top: 40px;
+}
+
+
+.programisci {
+    float: right;
+    width: 100%;
+    height: 595px;
+    margin-top: 5%;
+}
+
+
+.programiscizdj {
+    width: 50%;
+    height: 595px;
+    float: left;
+    text-align: center;
+}
+
+
+.programiscitytul {
+    width: 50%;
+    height: 200px;
+    float: right;
+    font-family: "Amatic SC", sans-serif;
+    text-align: center;
+    color: rgb(107, 0, 7);
+    font-weight: bolder;
+    font-size: 35px;
+    margin-top: 50px;
+}
+
+
+.programiscitext {
+    width: 50%;
+    height: 305;
+    float: right;
+    font-family: "Lato", sans-serif;
+    text-align: center;
+    color: #10344d;
+    font-weight: bolder;
+    font-size: 25px;
+    margin-top: 40px;
+}
+
+
+.pokazuwa {
+    float: left;
+    width: 100%;
+    height: 595px;
+    margin-top: 5%;
+    
+}
+
+
+.pokazuwazdj {
+    width: 50%;
+    height: 595px;
+    float: left;
+    text-align: center;
+}
+
+
+.pokazuwatytul {
+    width: 50%;
+    height: 200px;
+    float: right;
+    font-family: "Amatic SC", sans-serif;
+    text-align: center;
+    color: rgb(107, 0, 7);
+    font-weight: bolder;
+    font-size: 35px;
+    margin-top: 50px;
+}
+
+
+.pokazuwatext {
+    width: 50%;
+    height: 305;
+    float: right;
+    font-family: "Lato", sans-serif;
+    text-align: center;
+    color: #10344d;
+    font-weight: bolder;
+    font-size: 25px;
+    margin-top: 40px;
+}
+
+
+.wystawafot {
+    float: left;
+    width: 100%;
+    height: 595px;
+    margin-top: 5%;
+}
+
+
+.wystawafotzdj {
+    width: 50%;
+    height: 595px;
+    float: left;
+    text-align: center;
+}
+
+
+.wystawafottytul {
+    width: 50%;
+    height: 200px;
+    float: left;
+    font-family: "Amatic SC", sans-serif;
+    text-align: center;
+    color: rgb(107, 0, 7);
+    font-weight: bolder;
+    font-size: 35px;
+    margin-top: 50px;
+}
+
+
+.wystawafottext {
+    width: 50%;
+    height: 305;
+    float: left;
+    font-family: "Lato", sans-serif;
+    text-align: center;
+    color: #10344d;
+    font-weight: bolder;
+    font-size: 25px;
+    margin-top: 40px;
+}
+
+
+.csgo {
+    float: left;
+    width: 100%;
+    height: 595px;
+    margin-top: 5%;
+}
+
+
+.turniejzdj {
+    width: 50%;
+    height: 595px;
+    float: left;
+    text-align: center;
+}
+
+
+.turniejtytul {
+    width: 50%;
+    height: 200px;
+    float: right;
+    font-family: "Amatic SC", sans-serif;
+    text-align: center;
+    color: rgb(107, 0, 7);
+    font-weight: bolder;
+    font-size: 35px;
+    margin-top: 50px;
+}
+
+
+.turniejtext {
+    width: 50%;
+    height: 305;
+    float: right;
+    font-family: "Lato", sans-serif;
+    text-align: center;
+    color: #10344d;
+    font-weight: bolder;
+    font-size: 25px;
+    margin-top: 40px;
+}
+
+
+.fryzjerstwo {
+    float: left;
+    width: 100%;
+    height: 595px;
+    margin-top: 5%;
+}
+
+
+.fryzjerstwozdj {
+    width: 50%;
+    height: 595px;
+    float: left;
+    text-align: center;
+}
+
+
+.fryzjerstwotytul {
+    width: 50%;
+    height: 200px;
+    float: left;
+    font-family: "Amatic SC", sans-serif;
+    text-align: center;
+    color: rgb(107, 0, 7);
+    font-weight: bolder;
+    font-size: 35px;
+    margin-top: 50px;
+}
+
+
+.fryzjerstwotext {
+    width: 50%;
+    height: 305;
+    float: left;
+    font-family: "Lato", sans-serif;
+    text-align: center;
+    color: #10344d;
+    font-weight: bolder;
+    font-size: 25px;
+    margin-top: 40px;
+}
+
+
+.montazuwa {
+    float: left;
+    width: 100%;
+    height: 595px;
+    margin-top: 5%;
+}
+
+
+.montazuwazdj {
+    width: 50%;
+    height: 595px;
+    float: left;
+    text-align: center;
+}
+
+
+.montazuwatytul {
+    width: 50%;
+    height: 200px;
+    float: right;
+    font-family: "Amatic SC", sans-serif;
+    text-align: center;
+    color: rgb(107, 0, 7);
+    font-weight: bolder;
+    font-size: 35px;
+    margin-top: 50px;
+}
+
+
+.montazuwatext {
+    width: 50%;
+    height: 305;
+    float: right;
+    font-family: "Lato", sans-serif;
+    text-align: center;
+    color: #10344d;
+    font-weight: bolder;
+    font-size: 25px;
+    margin-top: 40px;
+}
+
+
+.reklama {
+    float: left;
+    width: 100%;
+    height: 595px;
+    margin-top: 3%;
+}
+
+
+.reklamazdj {
+    width: 50%;
+    height: 595px;
+    float: left;
+    text-align: center;
+}
+
+
+.reklamatytul {
+    width: 50%;
+    height: 200px;
+    float: left;
+    font-family: "Amatic SC", sans-serif;
+    text-align: center;
+    color: rgb(107, 0, 7);
+    font-weight: bolder;
+    font-size: 35px;
+    margin-top: 50px;
+}
+
+
+.reklamatext {
+    width: 50%;
+    height: 305px;
+    float: left;
+    font-family: "Lato", sans-serif;
+    text-align: center;
+    color: #10344d;
+    font-weight: bolder;
+    font-size: 25px;
+    margin-top: 40px;
+}
+
+
+.koniec {
+    width: 100%;
+    height: 100%;
+    float: left;
+    font-family: "Amatic SC", sans-serif;
+    text-align: center;
+    color: rgb(107, 0, 7);
+    font-weight: bolder;
+    font-size: 80px;
+    margin-top: 8%;
+    margin-bottom: 2%;
+}
